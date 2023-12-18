@@ -18,5 +18,5 @@
 - [x] 10a aula
 - [x] 11a aula
 - [x] 12a aula
-- [ ] 13a aula
+- [x] 13a aula
 ***
