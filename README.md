@@ -22,4 +22,4 @@
 ***
 
 **O curso de Git e GitHub foi finalizado com um teste de aprendizado, no qual eu alcançei a pontuação máxima.**
-*Testes ainda serão feitos neste repositório, SE necessário.*
+*Testes ainda serão feitos neste repositório SE necessário.*
