@@ -20,3 +20,6 @@
 - [x] 12a aula
 - [x] 13a aula
 ***
+
+**O curso de Git e GitHub foi finalizado com um teste de aprendizado, no qual eu alcançei a pontuação máxima.**
+*Testes ainda serão feitos neste repositório, SE necessário.*
